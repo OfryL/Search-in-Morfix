@@ -6,7 +6,7 @@
   "description": " Morfix dictionary, the leading online Hebrew-English and English-Hebrew Dictionary, free translation, with audio pronunciation, inflections, synonyms, example sentences, Hebrew Nikud (punctuation), encyclopedia and more.",
 
   "icons": {
-    "32": "icons/favicon.ico"
+    "32": "icons/favicon.png"
   },
 
   "chrome_settings_overrides": {
